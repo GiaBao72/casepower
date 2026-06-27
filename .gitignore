@@ -1,3 +1,4 @@
-video/
-*.mp4
+# Bỏ qua ảnh raw (anh/sac*) — chỉ giữ anh/site/
 anh/sac*
+# Video AI generated (quá lớn nếu có)
+hf_*.mp4
